@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.76027de4.css",
+    "main.js": "/Portfolio/static/js/main.42aca7aa.js",
+    "static/media/calculator.png": "/Portfolio/static/media/calculator.b482672e3eba82864370.png",
+    "static/media/weather.png": "/Portfolio/static/media/weather.e4f4dec29545a0d02dc8.png",
+    "static/media/currency.png": "/Portfolio/static/media/currency.2e5a5500ea88906a3c3c.png",
+    "static/media/guess.png": "/Portfolio/static/media/guess.3b017a4357499a1437ce.png",
+    "static/media/countdown.png": "/Portfolio/static/media/countdown.c8f3125bc0153a053dac.png",
+    "static/media/password.png": "/Portfolio/static/media/password.7496c7335d834632effd.png",
+    "static/media/heroimage2.png": "/Portfolio/static/media/heroimage2.d3152c7892f2265dddb1.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/Matplotlib.png": "/Portfolio/static/media/Matplotlib.108848d4569ad2010a41.png",
+    "static/media/chatgpt.png": "/Portfolio/static/media/chatgpt.1b6b302796bf0312afdb.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/Python.png": "/Portfolio/static/media/Python.65c0e9243c20520b4fdf.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/MongoDB.png": "/Portfolio/static/media/MongoDB.b723bb18907da666f951.png",
+    "static/media/scikitlearn.png": "/Portfolio/static/media/scikitlearn.6e8fb972f2cbb25af1f6.png",
+    "static/media/C.png": "/Portfolio/static/media/C.22e9ccb5444713a02310.png",
+    "static/media/Git.png": "/Portfolio/static/media/Git.8d37adcd9121c2aba1e0.png",
+    "static/media/NumPy.png": "/Portfolio/static/media/NumPy.ad6ce4268be9e06f8cb4.png",
+    "static/media/Java.png": "/Portfolio/static/media/Java.00c3be7f346b2c00213d.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/bootstrap.webp": "/Portfolio/static/media/bootstrap.9665c440214bdf00146d.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.76027de4.css.map": "/Portfolio/static/css/main.76027de4.css.map",
+    "main.42aca7aa.js.map": "/Portfolio/static/js/main.42aca7aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76027de4.css",
+    "static/js/main.42aca7aa.js"
+  ]
+}
