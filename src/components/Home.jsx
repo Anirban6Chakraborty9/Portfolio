@@ -22,10 +22,10 @@ const Home = () => {
             React & Tailwind.
           </p>
 
-          <div className='flex gap-5 items-center'>
+          <div className='flex gap-3 items-center'>
             <Link
               to='contact' smooth duration={800}
-              className="group text-white w-fit px-5 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-indigo-500 to-purple-500 hover:shadow-md hover:shadow-slate-400 "
+              className="group text-white w-fit px-2 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-indigo-500 to-purple-500 hover:shadow-md hover:shadow-slate-400 "
             >
               Reach out
               <span className="group-hover:rotate-90 duration-300 ">
@@ -34,14 +34,14 @@ const Home = () => {
             </Link>
             <a href="https://drive.google.com/file/d/1paoKhZoVQH1aRnVieGjT68pSd5TIsGv1/view?usp=sharing"
             target='_blank'>
-              <button className='lg:hidden group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md  bg-purple-500 cursor-pointer hover:shadow-md hover:shadow-slate-400 '>Resume
+              <button className='lg:hidden group text-white w-fit px-2 py-3 my-2 flex items-center rounded-md  bg-purple-500 cursor-pointer hover:shadow-md hover:shadow-slate-400 '>Resume
                 <span className="group-hover:inset-40 duration-300">
                     <MdDownload size={25} className="ml-1" />
                   </span>
               </button>
             </a>
             <a href="https://linktr.ee/anirbanchakraborty75" target='_blank'>
-              <button className='lg:hidden group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-indigo-500 cursor-pointer hover:shadow-md hover:shadow-slate-400 '>Social
+              <button className='lg:hidden group text-white w-fit px-2 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-indigo-500 cursor-pointer hover:shadow-md hover:shadow-slate-400 '>Social
                 <span className="group-hover:inset-40 duration-300">
                     <IoShareSocial  size={25} className="ml-1" />
                   </span>
