@@ -43,7 +43,7 @@ const Social = () => {
                 Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: 'https://drive.google.com/file/d/1oRbF3iyeNukc4UaAKxgDbFocmPXbcUoN/view?usp=sharing',
+            href: 'https://drive.google.com/file/d/1paoKhZoVQH1aRnVieGjT68pSd5TIsGv1/view?usp=sharing',
             style: 'rounded-br-md'
         }
     ]
