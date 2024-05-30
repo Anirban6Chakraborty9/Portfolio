@@ -32,7 +32,8 @@ const Home = () => {
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
             </Link>
-            <a href="https://drive.google.com/file/d/1oRbF3iyeNukc4UaAKxgDbFocmPXbcUoN/view?usp=sharing" target='_blank'>
+            <a href="https://drive.google.com/file/d/1paoKhZoVQH1aRnVieGjT68pSd5TIsGv1/view?usp=sharing"
+            target='_blank'>
               <button className='lg:hidden group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md  bg-purple-500 cursor-pointer hover:shadow-md hover:shadow-slate-400 '>Resume
                 <span className="group-hover:inset-40 duration-300">
                     <MdDownload size={25} className="ml-1" />
